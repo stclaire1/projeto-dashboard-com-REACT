@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 export const ContentCardsMovies = ({ title, quantity, borderColor}) => {
     const borderClass = `card ${borderColor} shadow h-100 py-2`
 
@@ -18,4 +20,16 @@ export const ContentCardsMovies = ({ title, quantity, borderColor}) => {
     </div>
     </div>
     )
+}
+
+ContentCardsMovies.propTypes = {
+    title: PropTypes.string.isRequired,
+    quantity: PropTypes.number.isRequired,
+    borderColor: PropTypes.string.isRequired
+}
+
+ContentCardsMovies.defaultProps = {
+    title: '',
+    quantity: 0,
+    borderClass: ''
 }

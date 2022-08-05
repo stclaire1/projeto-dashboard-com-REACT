@@ -1,6 +1,7 @@
 import { ContentRowMovies } from "../ContentRowMovies"
 import { GenresInDb } from "../GenresInDb"
 import { LastMovieInDb } from "../LastMovieInDb"
+import { Table } from "../Table"
 
 export const ContentContainer = () => {
     return(
@@ -12,6 +13,7 @@ export const ContentContainer = () => {
             <div class="row">
                 <LastMovieInDb />
                 <GenresInDb />
+                <Table title1='Title' title2='Movie Length' title3='Rating' title4='Genre' title5='Awards' />
             </div>
         </div>
     )

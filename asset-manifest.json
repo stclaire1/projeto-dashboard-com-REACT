@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/projeto-dashboard-com-REACT/static/css/main.6f1645c7.css",
+    "main.js": "/projeto-dashboard-com-REACT/static/js/main.547602f7.js",
+    "static/js/787.545aecf5.chunk.js": "/projeto-dashboard-com-REACT/static/js/787.545aecf5.chunk.js",
+    "static/media/mandalorian.jpg": "/projeto-dashboard-com-REACT/static/media/mandalorian.6989691dab43d579bf87.jpg",
+    "static/media/jordan-walke.png": "/projeto-dashboard-com-REACT/static/media/jordan-walke.aa2b2cc6b2b7cffa850d.png",
+    "static/media/logo-DH.png": "/projeto-dashboard-com-REACT/static/media/logo-DH.a7d07b2cb1439e8eac6c.png",
+    "index.html": "/projeto-dashboard-com-REACT/index.html",
+    "main.6f1645c7.css.map": "/projeto-dashboard-com-REACT/static/css/main.6f1645c7.css.map",
+    "main.547602f7.js.map": "/projeto-dashboard-com-REACT/static/js/main.547602f7.js.map",
+    "787.545aecf5.chunk.js.map": "/projeto-dashboard-com-REACT/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1645c7.css",
+    "static/js/main.547602f7.js"
+  ]
+}
